@@ -1,0 +1,10 @@
+C:\Users\admin\Downloads\FA1 Projects\FavouriteLanguanges\FavouriteLanguanges\bin\Debug\FavouriteLanguanges.exe.config
+C:\Users\admin\Downloads\FA1 Projects\FavouriteLanguanges\FavouriteLanguanges\bin\Debug\FavouriteLanguanges.exe
+C:\Users\admin\Downloads\FA1 Projects\FavouriteLanguanges\FavouriteLanguanges\bin\Debug\FavouriteLanguanges.pdb
+C:\Users\admin\Downloads\FA1 Projects\FavouriteLanguanges\FavouriteLanguanges\obj\Debug\FavouriteLanguanges.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\FA1 Projects\FavouriteLanguanges\FavouriteLanguanges\obj\Debug\FavouriteLanguanges.Form1.resources
+C:\Users\admin\Downloads\FA1 Projects\FavouriteLanguanges\FavouriteLanguanges\obj\Debug\FavouriteLanguanges.Properties.Resources.resources
+C:\Users\admin\Downloads\FA1 Projects\FavouriteLanguanges\FavouriteLanguanges\obj\Debug\FavouriteLanguanges.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\FA1 Projects\FavouriteLanguanges\FavouriteLanguanges\obj\Debug\FavouriteLanguanges.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\FA1 Projects\FavouriteLanguanges\FavouriteLanguanges\obj\Debug\FavouriteLanguanges.exe
+C:\Users\admin\Downloads\FA1 Projects\FavouriteLanguanges\FavouriteLanguanges\obj\Debug\FavouriteLanguanges.pdb
