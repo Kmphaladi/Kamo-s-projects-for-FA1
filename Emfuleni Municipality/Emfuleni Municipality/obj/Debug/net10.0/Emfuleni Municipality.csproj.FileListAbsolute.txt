@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\Long question\Emfuleni Municipality\Emfuleni Municipality\bin\Debug\net10.0\Emfuleni Municipality.exe
+C:\Users\admin\Downloads\Long question\Emfuleni Municipality\Emfuleni Municipality\bin\Debug\net10.0\Emfuleni Municipality.deps.json
+C:\Users\admin\Downloads\Long question\Emfuleni Municipality\Emfuleni Municipality\bin\Debug\net10.0\Emfuleni Municipality.runtimeconfig.json
+C:\Users\admin\Downloads\Long question\Emfuleni Municipality\Emfuleni Municipality\bin\Debug\net10.0\Emfuleni Municipality.dll
+C:\Users\admin\Downloads\Long question\Emfuleni Municipality\Emfuleni Municipality\bin\Debug\net10.0\Emfuleni Municipality.pdb
+C:\Users\admin\Downloads\Long question\Emfuleni Municipality\Emfuleni Municipality\obj\Debug\net10.0\Emfuleni Municipality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Long question\Emfuleni Municipality\Emfuleni Municipality\obj\Debug\net10.0\Emfuleni Municipality.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Long question\Emfuleni Municipality\Emfuleni Municipality\obj\Debug\net10.0\Emfuleni Municipality.AssemblyInfo.cs
+C:\Users\admin\Downloads\Long question\Emfuleni Municipality\Emfuleni Municipality\obj\Debug\net10.0\Emfuleni Municipality.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Long question\Emfuleni Municipality\Emfuleni Municipality\obj\Debug\net10.0\Emfuleni Municipality.dll
+C:\Users\admin\Downloads\Long question\Emfuleni Municipality\Emfuleni Municipality\obj\Debug\net10.0\refint\Emfuleni Municipality.dll
+C:\Users\admin\Downloads\Long question\Emfuleni Municipality\Emfuleni Municipality\obj\Debug\net10.0\Emfuleni Municipality.pdb
+C:\Users\admin\Downloads\Long question\Emfuleni Municipality\Emfuleni Municipality\obj\Debug\net10.0\Emfuleni Municipality.genruntimeconfig.cache
+C:\Users\admin\Downloads\Long question\Emfuleni Municipality\Emfuleni Municipality\obj\Debug\net10.0\ref\Emfuleni Municipality.dll

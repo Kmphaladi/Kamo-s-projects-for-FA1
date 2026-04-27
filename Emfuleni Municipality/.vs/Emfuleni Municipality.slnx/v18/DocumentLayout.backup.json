@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\Long question\\Emfuleni Municipality\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{346D8BB0-AAA6-47DD-8C5C-37CB3B3174DB}|Emfuleni Municipality\\Emfuleni Municipality.csproj|c:\\users\\admin\\downloads\\long question\\emfuleni municipality\\emfuleni municipality\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346D8BB0-AAA6-47DD-8C5C-37CB3B3174DB}|Emfuleni Municipality\\Emfuleni Municipality.csproj|solutionrelative:emfuleni municipality\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Long question\\Emfuleni Municipality\\Emfuleni Municipality\\Program.cs",
+              "RelativeDocumentMoniker": "Emfuleni Municipality\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Long question\\Emfuleni Municipality\\Emfuleni Municipality\\Program.cs",
+              "RelativeToolTip": "Emfuleni Municipality\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:24:50.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
