@@ -1,0 +1,10 @@
+C:\Users\admin\Downloads\Long question\HomeAffairs\HomeAffairs\bin\Debug\HomeAffairs.exe.config
+C:\Users\admin\Downloads\Long question\HomeAffairs\HomeAffairs\bin\Debug\HomeAffairs.exe
+C:\Users\admin\Downloads\Long question\HomeAffairs\HomeAffairs\bin\Debug\HomeAffairs.pdb
+C:\Users\admin\Downloads\Long question\HomeAffairs\HomeAffairs\obj\Debug\HomeAffairs.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Long question\HomeAffairs\HomeAffairs\obj\Debug\HomeAffairs.Form1.resources
+C:\Users\admin\Downloads\Long question\HomeAffairs\HomeAffairs\obj\Debug\HomeAffairs.Properties.Resources.resources
+C:\Users\admin\Downloads\Long question\HomeAffairs\HomeAffairs\obj\Debug\HomeAffairs.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Long question\HomeAffairs\HomeAffairs\obj\Debug\HomeAffairs.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Long question\HomeAffairs\HomeAffairs\obj\Debug\HomeAffairs.exe
+C:\Users\admin\Downloads\Long question\HomeAffairs\HomeAffairs\obj\Debug\HomeAffairs.pdb
