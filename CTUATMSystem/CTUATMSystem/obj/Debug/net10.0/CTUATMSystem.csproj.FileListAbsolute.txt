@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\FA1 Projects\CTUATMSystem\CTUATMSystem\bin\Debug\net10.0\CTUATMSystem.exe
+C:\Users\admin\Downloads\FA1 Projects\CTUATMSystem\CTUATMSystem\bin\Debug\net10.0\CTUATMSystem.deps.json
+C:\Users\admin\Downloads\FA1 Projects\CTUATMSystem\CTUATMSystem\bin\Debug\net10.0\CTUATMSystem.runtimeconfig.json
+C:\Users\admin\Downloads\FA1 Projects\CTUATMSystem\CTUATMSystem\bin\Debug\net10.0\CTUATMSystem.dll
+C:\Users\admin\Downloads\FA1 Projects\CTUATMSystem\CTUATMSystem\bin\Debug\net10.0\CTUATMSystem.pdb
+C:\Users\admin\Downloads\FA1 Projects\CTUATMSystem\CTUATMSystem\obj\Debug\net10.0\CTUATMSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\FA1 Projects\CTUATMSystem\CTUATMSystem\obj\Debug\net10.0\CTUATMSystem.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\FA1 Projects\CTUATMSystem\CTUATMSystem\obj\Debug\net10.0\CTUATMSystem.AssemblyInfo.cs
+C:\Users\admin\Downloads\FA1 Projects\CTUATMSystem\CTUATMSystem\obj\Debug\net10.0\CTUATMSystem.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\FA1 Projects\CTUATMSystem\CTUATMSystem\obj\Debug\net10.0\CTUATMSystem.dll
+C:\Users\admin\Downloads\FA1 Projects\CTUATMSystem\CTUATMSystem\obj\Debug\net10.0\refint\CTUATMSystem.dll
+C:\Users\admin\Downloads\FA1 Projects\CTUATMSystem\CTUATMSystem\obj\Debug\net10.0\CTUATMSystem.pdb
+C:\Users\admin\Downloads\FA1 Projects\CTUATMSystem\CTUATMSystem\obj\Debug\net10.0\CTUATMSystem.genruntimeconfig.cache
+C:\Users\admin\Downloads\FA1 Projects\CTUATMSystem\CTUATMSystem\obj\Debug\net10.0\ref\CTUATMSystem.dll
